@@ -58,7 +58,7 @@ O projeto oferece as seguintes funcionalidades:
 ### Passos para Execução
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/semaforo-bicicleta-inteligente.git
+   git clone https://github.com/KimberllyAlves/Projeto_Final.git
    ```
 2. Abra o projeto no seu ambiente de desenvolvimento.
 3. Compile e carregue o código na placa BitDog Lab.
