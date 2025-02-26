@@ -111,5 +111,5 @@ O sistema opera em dois modos principais: **automático** e **manual**. Aqui est
 ## 🎥 Vídeo de Demonstração
 
 Confira o vídeo de demonstração do projeto em funcionamento:  
-[🔗 Link do Vídeo](#) *(  )*
+[🔗 Link do Vídeo](#) (https://drive.google.com/file/d/1etD9FemCIJQ_eJ9ARYMGd-3xaQiLxvS1/view?usp=sharing)
 
